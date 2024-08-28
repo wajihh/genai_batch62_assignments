@@ -1,2 +1,2 @@
 # genai_batch62_assignments
-Generative AI Tassks
+Generative AI Tasks
